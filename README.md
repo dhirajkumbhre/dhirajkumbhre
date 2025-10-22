@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Dhiraj, and i'm B.tech graduate in Electronics & Telecommunications from RTMNU!
+I'm intrested in all thing Python & Web development.
+
+- I’m currently learning Web Development.
+- I recently build Neuromirror.
+- I'm looking for collabration on youtube videos.
+  -Send ideas to dhirajkumbhreofficial@gmail.comc  
+
 <!--
 **dhirajkumbhre/dhirajkumbhre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
