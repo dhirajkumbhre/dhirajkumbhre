@@ -3,8 +3,11 @@
 My name is Dhiraj, and I'm B.tech graduate in Electronics & Telecommunications from RTMNU!
 I'm intrested in all thing Python & Web development.
 
-- I’m currently learning Web Development.
-- I recently build Neuromirror.
+💻 Web Developer  
+⚛️ MERN Stack | JavaScript First  
+☕ Turning coffee into clean code  
+📚 Always learning, always building
+
 
 
 <!--
