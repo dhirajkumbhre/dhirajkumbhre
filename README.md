@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Dhiraj Kumbhre
+**A passionate Frontend Devloper || Web develpoer  || Mern Stack develpoer **
+Email Me 👉 ✉️ **dhirajkumbhreofficial@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Finance ai tracker
+- 🌱 **I’m currently learning:** Bun , Docker & Mern
+- 👯 **I’m looking to collaborate on:** Finance ai tracker
+- 🤔 **I’m looking for help with:** My projects
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** dhirajkumbhreofficial@gmail.com
+- 😄 **Pronouns:** Dhiraj
+- ⚡ **Fun fact:** I enjoy football as much as debugging code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-kumbhre) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KumbhreD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhirajkumbhreofficial@gmail.com) 
@@ -9,8 +21,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dhirajkumbhre&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumbhre&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhirajkumbhre&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
