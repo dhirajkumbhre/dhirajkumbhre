@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Dhiraj Kumbhre
-**A passionate Frontend Devloper || Web develpoer  || Mern Stack develpoer **
+**Passionate Frontend Developer | Web Developer | MERN Stack Learner**
 
 Email Me 👉 ✉️ **dhirajkumbhreofficial@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
