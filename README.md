@@ -1,16 +1,11 @@
-# 💫 Hi 👋, I'm Dhiraj Kumbhre
 **Passionate Frontend Developer | Web Developer | MERN Stack Learner**
+Email Me 👉 ✉️ **dhirajkumbhreofficial@gmail.com**
 
-Email Me 👉 ✉️ **dhirajkumbhreofficial@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Finance ai tracker
-- 🌱 **I’m currently learning:** Bun , Docker & Mern
-- 👯 **I’m looking to collaborate on:** Finance ai tracker
-- 🤔 **I’m looking for help with:** My projects
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** dhirajkumbhreofficial@gmail.com
-- 😄 **Pronouns:** Dhiraj
-- ⚡ **Fun fact:** I enjoy football as much as debugging code.
+I’m Dhiraj, a passionate backend software engineer from India 🇮🇳.
+Building scalable CRM and SaaS platforms with modern backend architectures.
+NestJS • Go • Spring Boot • Redis • Elasticsearch • PostgreSQL
+☁️ Familiar with Docker, Kubernetes, AWS, GCP, cloud deployments
+💡 Always improving system architecture, distributed systems, and performance tuning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-kumbhre) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KumbhreD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhirajkumbhreofficial@gmail.com) 
