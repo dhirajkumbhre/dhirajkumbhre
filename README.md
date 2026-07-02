@@ -55,8 +55,6 @@ MERN Stack Developer | React | Node.js | Express | MongoDB
 
 ### 📫 Contact
 
-Email: dhirajkumbhreofficial@gmail.com
-**dhirajkumbhreofficial@gmail.com**
+Email: **dhirajkumbhreofficial@gmail.com**
 
-LinkedIn:
-(Your LinkedIn)
+LinkedIn: **https://www.linkedin.com/in/dhiraj-kumbhre/**
