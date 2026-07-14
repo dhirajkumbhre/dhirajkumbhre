@@ -1,42 +1,63 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumbhre</h1>
 
 <h3 align="center">
-MERN Stack Developer | React | Node.js | Express | MongoDB
+Aspiring Full Stack Developer (MERN) • Building Real-World Web Applications
 </h3>
 
----
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning **Full Stack MERN Development**
-- 💻 Building production-style projects to become job ready
-- 🚀 Interested in Backend Development & REST APIs
-- 📚 Learning Data Structures and Algorithms
-- 🎯 Goal: Software Developer (Frontend / Full Stack)
+<p align="center">
+📍 Nagpur, India • 💼 Open to Full-Stack Developer Opportunities
+</p>
 
 ---
 
-### 🛠 Tech Stack
+## 👨‍💻 About Me
 
-#### Frontend
+- 🌱 Currently building production-ready MERN applications
+- 💻 Passionate about creating responsive and scalable web applications
+- ⚙️ Interested in Backend Development, REST APIs, and Authentication
+- 📚 Learning Data Structures & Algorithms alongside Full Stack Development
+- 🎯 Goal: Become a Software Engineer and contribute to impactful products
 
+---
+
+## 🚀 Current Projects
+
+### 🎬 Netflix Landing Page Clone
+- Responsive Netflix-inspired landing page
+- HTML, CSS, JavaScript
+- Pixel-perfect UI recreation
+
+### 📝 MERN Blog Application
+- User Authentication (JWT)
+- CRUD Operations
+- MongoDB Database
+- REST API with Express.js
+
+### 🔐 Authentication System
+- JWT Authentication
+- Password Hashing using bcrypt
+- Protected Routes
+- Express Middleware
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - React.js
 - Tailwind CSS
 
-#### Backend
-
+### Backend
 - Node.js
 - Express.js
 
-#### Database
-
+### Database
 - MongoDB
 
-#### Tools
-
+### Tools
 - Git
 - GitHub
 - VS Code
@@ -45,16 +66,16 @@ MERN Stack Developer | React | Node.js | Express | MongoDB
 
 ---
 
-### 🚀 Current Projects
+## 📫 Connect With Me
 
-- 🎬 Netflix Landing Page Clone
-- 📝 MERN Blog Application
-- 🔐 JWT Authentication System
+📧 **Email:** dhirajkumbhreofficial@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/dhiraj-kumbhre/
+
+🐙 **GitHub:**  
+https://github.com/dhirajkumbhre
 
 ---
 
-### 📫 Contact
-
-Email: **dhirajkumbhreofficial@gmail.com**
-
-LinkedIn: **https://www.linkedin.com/in/dhiraj-kumbhre/**
+⭐ Always learning, building, and improving one project at a time.
