@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumbhre.</h1>
 
 <h3 align="center">
-Aspiring Full Stack Developer (MERN) • Building Real-World Web Applications
+Full Stack Developer (MERN) • Building Real-World Web Applications
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Aspiring Full Stack Developer (MERN) • Building Real-World Web Applications
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently building production-ready MERN applications
+- 🌱 Building production-ready MERN applications
 - 💻 Passionate about creating responsive and scalable web applications
 - ⚙️ Interested in Backend Development, REST APIs, and Authentication
 - 📚 Learning Data Structures & Algorithms alongside Full Stack Development
