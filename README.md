@@ -7,7 +7,6 @@ Full Stack Developer (MERN) • Building Real-World Web Applications
 <p align="center">
 📍 Nagpur, India • 💼 Open to Full-Stack Developer Opportunities
 </p>
-
 ---
 
 ## 👨‍💻 About Me
