@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhiraj Kumbhre.</h1>
+<h1 align="center">Hi, I'm Dhiraj Kumbhre.</h1>
 
 <h3 align="center">
 Full Stack Developer (MERN) • Building Real-World Web Applications
