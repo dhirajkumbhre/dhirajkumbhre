@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Dhiraj Kumbhre.</h1>
 
 <h3 align="center">
-Full Stack Developer (MERN) • Building Real-World Web Applications
+Full Stack Developer (MERN) • QA Engineer
 </h3>
 
 <p align="center">
-📍 Nagpur, India • 💼 Open to Full-Stack Developer Opportunities
+📍 Nagpur, India • Full-Stack Developer Opportunities
 </p>
 ---
 
