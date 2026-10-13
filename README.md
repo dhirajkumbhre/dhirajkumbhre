@@ -7,7 +7,6 @@ Full Stack Developer (MERN) • QA Engineer
 <p align="center">
 📍 Nagpur, India • Full-Stack Developer Opportunities
 </p>
----
 
 ## 👨‍💻 About Me
 
